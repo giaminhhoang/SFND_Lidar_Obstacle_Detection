@@ -13,7 +13,7 @@ struct Node
 	Node* right;
 
 	Node(std::vector<float> arr, int setId)
-	:	point(arr), id(setId), left(NULL), right(NULL)
+	:	point(arr), id(setId), left(NULL), right(NULL)		// constructor
 	{}
 };
 
@@ -29,6 +29,13 @@ struct KdTree
 	{
 		// TODO: Fill in this function to insert a new point into the tree
 		// the function should create a new node and place correctly with in the root 
+		if (*root == NULL)
+			root = &point;
+		else
+		{
+			
+		}
+
 
 	}
 
