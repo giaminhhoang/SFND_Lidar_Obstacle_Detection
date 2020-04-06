@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp" "/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/build/CMakeFiles/quizRansac.dir/mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.o"
-  "/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/ransac2d.cpp" "/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/build/CMakeFiles/quizRansac.dir/ransac2d.cpp.o"
+  "/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp" "/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/build/CMakeFiles/quizRansac.dir/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.o"
+  "/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/ransac2d.cpp" "/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/build/CMakeFiles/quizRansac.dir/ransac2d.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

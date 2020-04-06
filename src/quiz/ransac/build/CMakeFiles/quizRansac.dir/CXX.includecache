@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/processPointClouds.cpp
+/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/processPointClouds.cpp
 processPointClouds.h
-/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/processPointClouds.h
+/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/processPointClouds.h
 
-/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/processPointClouds.h
+/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/processPointClouds.h
 pcl/io/pcd_io.h
 -
 pcl/common/common.h
@@ -40,31 +40,39 @@ ctime
 chrono
 -
 render/box.h
-/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/render/box.h
+/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/box.h
+unordered_set
+-
+quiz/cluster/kdtree.h
+/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/quiz/cluster/kdtree.h
 
-/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/ransac2d.cpp
+/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/quiz/cluster/kdtree.h
 ../../render/render.h
-/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/render/render.h
+/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.h
+
+/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/ransac2d.cpp
+../../render/render.h
+/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.h
 unordered_set
 -
 ../../processPointClouds.h
-/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/processPointClouds.h
+/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/processPointClouds.h
 ../../processPointClouds.cpp
-/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/processPointClouds.cpp
+/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/processPointClouds.cpp
 
-/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/render/box.h
+/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/box.h
 Eigen/Geometry
 -
 
-/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp
+/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp
 render.h
-/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/render/render.h
+/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.h
 
-/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/render/render.h
+/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.h
 pcl/visualization/pcl_visualizer.h
 -
 box.h
-/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/render/box.h
+/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/box.h
 iostream
 -
 vector

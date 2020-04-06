@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/quiz/ransac"
+CMAKE_SOURCE_DIR = /mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/quiz/ransac
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/build"
+CMAKE_BINARY_DIR = /mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/build/CMakeFiles" "/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/build/CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/build/CMakeFiles /mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/mnt/hgfs/my work/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/build/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,32 +123,32 @@ quizRansac/fast:
 	$(MAKE) -f CMakeFiles/quizRansac.dir/build.make CMakeFiles/quizRansac.dir/build
 .PHONY : quizRansac/fast
 
-mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.o: mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.o
+mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.o: mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.o
 
-.PHONY : mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.o
+.PHONY : mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.o
 
 # target to build an object file
-mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.o:
-	$(MAKE) -f CMakeFiles/quizRansac.dir/build.make CMakeFiles/quizRansac.dir/mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.o
-.PHONY : mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.o
+mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.o:
+	$(MAKE) -f CMakeFiles/quizRansac.dir/build.make CMakeFiles/quizRansac.dir/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.o
+.PHONY : mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.o
 
-mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.i: mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.i
+mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.i: mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.i
 
-.PHONY : mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.i
+.PHONY : mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.i
 
 # target to preprocess a source file
-mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.i:
-	$(MAKE) -f CMakeFiles/quizRansac.dir/build.make CMakeFiles/quizRansac.dir/mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.i
-.PHONY : mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.i
+mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.i:
+	$(MAKE) -f CMakeFiles/quizRansac.dir/build.make CMakeFiles/quizRansac.dir/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.i
+.PHONY : mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.i
 
-mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.s: mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.s
+mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.s: mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.s
 
-.PHONY : mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.s
+.PHONY : mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.s
 
 # target to generate assembly for a file
-mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.s:
-	$(MAKE) -f CMakeFiles/quizRansac.dir/build.make CMakeFiles/quizRansac.dir/mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.s
-.PHONY : mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.s
+mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.s:
+	$(MAKE) -f CMakeFiles/quizRansac.dir/build.make CMakeFiles/quizRansac.dir/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.s
+.PHONY : mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.s
 
 ransac2d.o: ransac2d.cpp.o
 
@@ -186,9 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... quizRansac"
 	@echo "... edit_cache"
-	@echo "... mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.o"
-	@echo "... mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.i"
-	@echo "... mnt/hgfs/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.s"
+	@echo "... mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.o"
+	@echo "... mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.i"
+	@echo "... mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/src/render/render.s"
 	@echo "... ransac2d.o"
 	@echo "... ransac2d.i"
 	@echo "... ransac2d.s"

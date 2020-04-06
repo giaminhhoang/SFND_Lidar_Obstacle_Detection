@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/c/Users/hoang/Documents/my work/SFND_Lidar_Obstacle_Detection
+# Install script for directory: /mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/mnt/c/Users/hoang/Documents/my work/SFND_Lidar_Obstacle_Detection/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/mnt/c/Users/hoang/Documents/my_work/SFND_Lidar_Obstacle_Detection/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
